@@ -3,7 +3,7 @@
 ## HTTPS
 git clone https://github.com/carson-24/MPT.git
 
-cd <repository directory>
+cd [repository directory]
 
 sudo npm install -g serve
 
